@@ -9,7 +9,7 @@
 }
 
 .button:focus {
-  outline: none;
+  outline: invert;
 }
 
 .button:hover,
